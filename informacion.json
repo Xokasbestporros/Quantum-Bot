@@ -1,15 +1,15 @@
 {
 	"Prefijo": ".",
 	"LenguajeDelBot": "es",
-	"NombreDelBot": "Quantum|Bot",
+	"NombreDelBot": "kzha-bot",
 	"ControladorDelBot": [
-		"51995386439@s.whatsapp.net",
-		"52999999999@s.whatsapp.net",
-		"53999999999@s.whatsapp.net",
-		"55999999999@s.whatsapp.net",
-		"54999999999@s.whatsapp.net"
+		"51945669250@s.whatsapp.net",
+		"@s.whatsapp.net",
+		"@s.whatsapp.net",
+		"@s.whatsapp.net",
+		"@s.whatsapp.net"
 	],
-	"CoCreador": "Matt_Mdz",
+	"CoCreador": "elxokas(no se)",
 	"MyPais": "51",
 	"MiembrosMinimoEnUnGrupo": "2",
 	"LimiteParaUsarComandos": "30",
